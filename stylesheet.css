@@ -5,3 +5,12 @@ body
     text-align:center;
     padding:20px;
 }
+
+img
+{
+    width:25%;
+    height:25%;
+    border-width:6px;
+    border-style:solid;
+    border-color:#888888;
+}
