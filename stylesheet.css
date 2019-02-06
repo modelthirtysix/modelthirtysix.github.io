@@ -13,22 +13,26 @@ p
 
 a:link
 {
-    color:#888888
+    color:#888888;
+    text-decoration:none;
 }
 
 a:visited
 {
-    color:#888888
+    color:#888888;
+    text-decoration:none;
 }
 
 a:hover
 {
-    color:#000000
+    color:#000000;
+    text-decoration:underline;
 }
 
 a:active
 {
-    color:#000000
+    color:#000000;
+    text-decoration:underline;
 }
 
 #spacer
