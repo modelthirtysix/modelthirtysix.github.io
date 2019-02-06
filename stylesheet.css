@@ -11,6 +11,26 @@ p
     font-size:10pt;
 }
 
+a:link
+{
+    color:#888888
+}
+
+a:visited
+{
+    color:#888888
+}
+
+a:hover
+{
+    color:#000000
+}
+
+a:active
+{
+    color:#000000
+}
+
 #spacer
 {
     padding:10px;
