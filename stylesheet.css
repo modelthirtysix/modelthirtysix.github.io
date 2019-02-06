@@ -11,6 +11,11 @@ p
     font-size:10pt;
 }
 
+#spacer
+{
+    padding:10px;
+}
+
 #wrap 
 {
    text-align:center;
@@ -18,8 +23,8 @@ p
 
 #arizona
 {
-    width:82%;
-    height:82%;
+    width:360px;
+    height:auto;
 }
 
 #radiologo
