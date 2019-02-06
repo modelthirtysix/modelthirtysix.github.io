@@ -2,18 +2,34 @@
 
 body
 {
-    text-align:center;
-    padding:180px;
-}
-
-#placeholder
-{
-    width:16%;
-    height:16%;
-    padding-bottom:-36px;
+    padding:30px;
 }
 
 p
 {
     font-family:courier;
+    font-size:10pt;
+}
+
+#wrap 
+{
+   text-align:center;
+}
+
+#arizona
+{
+    width:82%;
+    height:82%;
+}
+
+#radiologo
+{
+    width:300px;
+    height:auto;
+}
+
+#cover
+{
+    width:375px;
+    height:auto;
 }
