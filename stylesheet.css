@@ -60,6 +60,11 @@ a:active
 
 #cover
 {
-    width:375px;
+    width:620px;
     height:auto;
+}
+
+#tracks
+{
+    color:#888888
 }
