@@ -1,11 +1,5 @@
 /* Model.36 style sheet */
 
-@font-face
-{
-    font-family:'authentic90con';
-    src: url('/blob/master/fonts/authentic90.otf');
-}
-
 body
 {
     padding:30px;
@@ -13,7 +7,7 @@ body
 
 p
 {
-    font-family:'authentic90con';
+    font-family:'Courier';
     font-size:10pt;
 }
 
