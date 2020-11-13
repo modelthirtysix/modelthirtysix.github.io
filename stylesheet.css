@@ -2,8 +2,8 @@
 
 @font-face
 {
-    font-family:'authentic90';
-    src: url('/tree/master/fonts/authentic90.otf');
+    font-family:'authentic90con';
+    src: url('/tree/master/fonts/authentic90con.otf');
 }
 
 body
@@ -13,7 +13,7 @@ body
 
 p
 {
-    font-family:'authentic90';
+    font-family:'authentic90con';
     font-size:10pt;
 }
 
