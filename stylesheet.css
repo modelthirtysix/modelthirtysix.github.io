@@ -2,8 +2,8 @@
 
 @font-face
 {
-    font-family:'akkreg';
-    src: url('/tree/master/fonts/akkreg.otf');
+    font-family:'authentic90';
+    src: url('/tree/master/fonts/authentic90.otf');
 }
 
 body
@@ -13,7 +13,7 @@ body
 
 p
 {
-    font-family:'akkreg';
+    font-family:'authentic90';
     font-size:10pt;
 }
 
