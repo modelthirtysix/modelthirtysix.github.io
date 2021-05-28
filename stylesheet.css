@@ -1,5 +1,10 @@
 /* Model.36 style sheet */
 
+*
+{
+    cursor:url('cursor1.png');    
+}
+
 body
 {
     padding:30px;
